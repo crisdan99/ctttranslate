@@ -1,0 +1,49 @@
+name: Solicitud de mejora
+description: Propuesta de nueva funcionalidad o mejora para ctttranslate
+title: "[FEAT] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |- 
+        Gracias por proponer una mejora para ctttranslate. Por favor completa la información solicitada para que podamos evaluar y priorizar la propuesta.
+
+  - type: input
+    id: summary
+    attributes:
+      label: "Resumen breve"
+      description: "Describe brevemente la mejora propuesta"
+      placeholder: "Resumir la mejora en una frase"
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: "Motivación y contexto"
+      description: "¿Por qué es útil esta mejora? ¿Qué problema resuelve?"
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Propuesta de solución"
+      description: "Describe cómo se podría implementar la mejora (si ya tienes una idea)."
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternativas consideradas"
+      description: "Otras opciones que se evaluaron y por qué se descartan."
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Prioridad sugerida"
+      options:
+        - "Baja"
+        - "Media"
+        - "Alta"
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Información adicional"
+      description: "Adjunta ejemplos, mockups, links o cualquier detalle adicional.")
