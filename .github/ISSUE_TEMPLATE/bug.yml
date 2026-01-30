@@ -1,0 +1,50 @@
+name: Informe de bug
+description: Reporta aquí un comportamiento inesperado en ctttranslate
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |-
+        ¡Gracias por ayudarnos a mejorar ctttranslate! Por favor, rellena todos los campos posibles:
+
+  - type: input
+    id: steps
+    attributes:
+      label: "Pasos para reproducir"
+      description: "Lista los pasos exactos para que podamos reproducir el problema (ejemplo: 1. Abrir la app, 2. Hacer clic en Traducir...)"
+      placeholder: "1. ...\n2. ..."
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Comportamiento esperado"
+      description: "¿Cuál debería ser el comportamiento correcto?"
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Comportamiento real observado"
+      description: "¿Qué ocurrió en realidad? Adjunta mensajes de error, capturas, etc. si es posible."
+
+  - type: input
+    id: version
+    attributes:
+      label: "Versión o commit"
+      description: "¿En qué versión, commit o fecha lo detectaste?"
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: "Sistema operativo"
+      options:
+        - "Windows"
+        - "macOS"
+        - "Linux"
+        - "Otro"
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Información adicional"
+      description: "Agrega cualquier otra información relevante, como logs, capturas, hipótesis, etc."
