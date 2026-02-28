@@ -1,0 +1,15 @@
+CTtTranslate v1.0.15 - Stable Release
+
+Added:
+- Full i18n support for owner and player panels
+- Multilingual .tr system
+
+Changed:
+- Dropdown language handling now index-based
+
+Improved:
+- Owner API configuration logic
+- General stability and cleanup
+
+Fixed:
+- Translation dropdown comparison issue

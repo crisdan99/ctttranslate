@@ -1,0 +1,47 @@
+# textdomain: ctttranslate
+Automatic chat translator with colors, labels, and owner-controlled settings=Автоматический переводчик чата с цветами, метками и настройками, управляемыми владельцем
+Open your translation panel=Открыть панель перевода
+Open your translation panel (short command)=Открыть панель перевода (короткая команда)
+Enable or disable CTtTranslate=Включить или отключить CTtTranslate
+Change your translation language=Изменить язык перевода
+Reset your translation settings=Сбросить настройки перевода
+Open global translation panel (owner only)=Открыть глобальную панель (только владелец)
+Show CTtTranslate help=Показать помощь CTtTranslate
+CTtTranslate active: @1=CTtTranslate активен: @1
+Usage: /ctt_lang <language>=Использование: /ctt_lang <язык>
+Language changed to: @1=Язык изменён на: @1
+Your CTtTranslate data has been reset.=Ваши данные CTtTranslate были сброшены.
+===== CTtTranslate Help ========== Помощь CTtTranslate =====
+/ctt - Open panel=/ctt - Открыть панель
+/ctt_lang <lang> - Change language=/ctt_lang <язык> - Изменить язык
+/ctt_reset - Reset your data=/ctt_reset - Сбросить данные
+/ctt_toggle - Enable/Disable mod (owner)=/ctt_toggle - Вкл/Выкл мод (владелец)
+/ctranslate - Owner panel=/ctranslate - Панель владельца
+============================== ==============================
+CTtTranslate - Owner Control Panel=CTtTranslate - Панель Владельца
+Global Settings=Глобальные настройки
+Enable global translator=Включить глобальный переводчик
+Show original language tag=Показывать исходный язык
+Translation API=API перевода
+LibreTranslate=LibreTranslate
+Google Translate=Google Translate
+Google API Key=Ключ API Google
+Visual=Визуальные настройки
+Default color (HEX)=Цвет по умолчанию (HEX)
+Test translation (owner)=Тест перевода (владелец)
+Players (Save permanently)=Игроки (Постоянное сохранение)
+Save=Сохранить
+Hello world (preview)=Привет мир (предпросмотр)
+[CTtTranslate TEST] =[ТЕСТ CTtTranslate] 
+[CTtTranslate] Owner settings saved=[CTtTranslate] Настройки владельца сохранены
+
+CTtTranslate - Translation Panel=CTtTranslate - Панель Перевода
+Enable translator=Включить переводчик
+Save=Сохранить
+Enabled=Включен
+Disabled=Отключен
+[CTtTranslate] Translator: @1=[CTtTranslate] Переводчик: @1
+Spanish=Испанский
+English=Английский
+Portuguese=Португальский
+Russian=Русский

@@ -1,0 +1,47 @@
+# textdomain: ctttranslate
+Automatic chat translator with colors, labels, and owner-controlled settings=Automatic chat translator with colors, labels, and owner-controlled settings
+Open your translation panel=Open your translation panel
+Open your translation panel (short command)=Open your translation panel (short command)
+Enable or disable CTtTranslate=Enable or disable CTtTranslate
+Change your translation language=Change your translation language
+Reset your translation settings=Reset your translation settings
+Open global translation panel (owner only)=Open global translation panel (owner only)
+Show CTtTranslate help=Show CTtTranslate help
+CTtTranslate active: @1=CTtTranslate active: @1
+Usage: /ctt_lang <language>=Usage: /ctt_lang <language>
+Language changed to: @1=Language changed to: @1
+Your CTtTranslate data has been reset.=Your CTtTranslate data has been reset.
+===== CTtTranslate Help ========== CTtTranslate Help =====
+/ctt - Open panel=/ctt - Open panel
+/ctt_lang <lang> - Change language=/ctt_lang <lang> - Change language
+/ctt_reset - Reset your data=/ctt_reset - Reset your data
+/ctt_toggle - Enable/Disable mod (owner)=/ctt_toggle - Enable/Disable mod (owner)
+/ctranslate - Owner panel=/ctranslate - Owner panel
+============================== ==============================
+CTtTranslate - Owner Control Panel=CTtTranslate - Owner Control Panel
+Global Settings=Global Settings
+Enable global translator=Enable global translator
+Show original language tag=Show original language tag
+Translation API=Translation API
+LibreTranslate=LibreTranslate
+Google Translate=Google Translate
+Google API Key=Google API Key
+Visual=Visual
+Default color (HEX)=Default color (HEX)
+Test translation (owner)=Test translation (owner)
+Players (Save permanently)=Players (Save permanently)
+Save=Save
+Hello world (preview)=Hello world (preview)
+[CTtTranslate TEST] =[CTtTranslate TEST] 
+[CTtTranslate] Owner settings saved=[CTtTranslate] Owner settings saved
+
+CTtTranslate - Translation Panel=CTtTranslate - Translation Panel
+Enable translator=Enable translator
+Save=Save
+Enabled=Enabled
+Disabled=Disabled
+[CTtTranslate] Translator: @1=[CTtTranslate] Translator: @1
+Spanish=Spanish
+English=English
+Portuguese=Portuguese
+Russian=Russian

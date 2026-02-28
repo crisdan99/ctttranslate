@@ -1,0 +1,46 @@
+# textdomain: ctttranslate
+Automatic chat translator with colors, labels, and owner-controlled settings=Automatisk chattöversättare med färger, etiketter och inställningar som styrs av ägaren
+Open your translation panel=Öppna översättningspanelen
+Open your translation panel (short command)=Öppna översättningspanelen (kort kommando)
+Enable or disable CTtTranslate=Aktivera eller inaktivera CTtTranslate
+Change your translation language=Ändra ditt översättningsspråk
+Reset your translation settings=Återställ dina översättningsinställningar
+Open global translation panel (owner only)=Öppna global panel (endast ägare)
+Show CTtTranslate help=Visa CTtTranslate hjälp
+CTtTranslate active: @1=CTtTranslate aktiv: @1
+Usage: /ctt_lang <language>=Användning: /ctt_lang <språk>
+Language changed to: @1=Språk ändrat till: @1
+Your CTtTranslate data has been reset.=Dina CTtTranslate-data har återställts.
+===== CTtTranslate Help ========== CTtTranslate hjälp =====
+/ctt - Open panel=/ctt - Öppna panel
+/ctt_lang <lang> - Change language=/ctt_lang <språk> - Ändra språk
+/ctt_reset - Reset your data=/ctt_reset - Återställ data
+/ctt_toggle - Enable/Disable mod (owner)=/ctt_toggle - Aktivera/Inaktivera mod (ägare)
+/ctranslate - Owner panel=/ctranslate - Ägarpanel
+============================== ==============================
+CTtTranslate - Owner Control Panel=CTtTranslate - Ägarens Kontrollpanel
+Global Settings=Globala Inställningar
+Enable global translator=Aktivera global översättare
+Show original language tag=Visa originalspråk
+Translation API=Översättnings API
+LibreTranslate=LibreTranslate
+Google Translate=Google Translate
+Google API Key=Google API-nyckel
+Visual=Visuellt
+Default color (HEX)=Standardfärg (HEX)
+Test translation (owner)=Testa översättning (ägare)
+Players (Save permanently)=Spelare (Spara permanent)
+Save=Spara
+Hello world (preview)=Hej världen (förhandsvisning)
+[CTtTranslate TEST] =[TEST CTtTranslate] 
+[CTtTranslate] Owner settings saved=[CTtTranslate] Ägarinställningar sparade
+CTtTranslate - Translation Panel=CTtTranslate - Översättningspanel
+Enable translator=Aktivera översättare
+Save=Spara
+Enabled=Aktiverad
+Disabled=Inaktiverad
+[CTtTranslate] Translator: @1=[CTtTranslate] Översättare: @1
+Spanish=Spanska
+English=Engelska
+Portuguese=Portugisiska
+Russian=Ryska

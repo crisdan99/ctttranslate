@@ -1,0 +1,47 @@
+# textdomain: ctttranslate
+Automatic chat translator with colors, labels, and owner-controlled settings=Automatische chatvertaler met kleuren, labels en instellingen beheerd door de eigenaar
+Open your translation panel=Vertaalpaneel openen
+Open your translation panel (short command)=Vertaalpaneel openen (korte opdracht)
+Enable or disable CTtTranslate=CTtTranslate in- of uitschakelen
+Change your translation language=Je vertaaltaal wijzigen
+Reset your translation settings=Je vertaalinstellingen resetten
+Open global translation panel (owner only)=Globaal vertaalpaneel openen (alleen eigenaar)
+Show CTtTranslate help=CTtTranslate hulp tonen
+CTtTranslate active: @1=CTtTranslate actief: @1
+Usage: /ctt_lang <language>=Gebruik: /ctt_lang <taal>
+Language changed to: @1=Taal gewijzigd naar: @1
+Your CTtTranslate data has been reset.=Je CTtTranslate-gegevens zijn gereset.
+===== CTtTranslate Help ========== CTtTranslate hulp =====
+/ctt - Open panel=/ctt - Paneel openen
+/ctt_lang <lang> - Change language=/ctt_lang <taal> - Taal wijzigen
+/ctt_reset - Reset your data=/ctt_reset - Gegevens resetten
+/ctt_toggle - Enable/Disable mod (owner)=/ctt_toggle - Mod in-/uitschakelen (eigenaar)
+/ctranslate - Owner panel=/ctranslate - Eigenaarspaneel
+============================== ==============================
+CTtTranslate - Owner Control Panel=CTtTranslate - Owner Configuratiescherm
+Global Settings=Algemene Instellingen
+Enable global translator=Globale vertaler inschakelen
+Show original language tag=Originele taal tonen
+Translation API=Vertaal API
+LibreTranslate=LibreTranslate
+Google Translate=Google Translate
+Google API Key=Google API Sleutel
+Visual=Visueel
+Default color (HEX)=Standaard kleur (HEX)
+Test translation (owner)=Test vertaling (owner)
+Players (Save permanently)=Spelers (Permanent opslaan)
+Save=Opslaan
+Hello world (preview)=Hallo wereld (voorbeeld)
+[CTtTranslate TEST] =[CTtTranslate TEST] 
+[CTtTranslate] Owner settings saved=[CTtTranslate] Owner instellingen opgeslagen
+
+CTtTranslate - Translation Panel=CTtTranslate - Vertaalpaneel
+Enable translator=Vertaler inschakelen
+Save=Opslaan
+Enabled=Ingeschakeld
+Disabled=Uitgeschakeld
+[CTtTranslate] Translator: @1=[CTtTranslate] Vertaler: @1
+Spanish=Spaans
+English=Engels
+Portuguese=Portugees
+Russian=Russisch

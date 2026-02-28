@@ -1,0 +1,48 @@
+# textdomain: ctttranslate
+Automatic chat translator with colors, labels, and owner-controlled settings=Traductor automático del chat con colores, etiquetas y configuraciones controladas por el propietario
+
+Open your translation panel=Abrir tu panel de traducción
+Open your translation panel (short command)=Abrir tu panel de traducción (comando corto)
+Enable or disable CTtTranslate=Activar o desactivar CTtTranslate
+Change your translation language=Cambiar tu idioma de traducción
+Reset your translation settings=Restablecer tu configuración de traducción
+Open global translation panel (owner only)=Abrir panel global de traducción (solo owner)
+Show CTtTranslate help=Mostrar ayuda de CTtTranslate
+CTtTranslate active: @1=CTtTranslate activo: @1
+Usage: /ctt_lang <language>=Uso: /ctt_lang <idioma>
+Language changed to: @1=Idioma cambiado a: @1
+Your CTtTranslate data has been reset.=Tus datos de CTtTranslate han sido restablecidos.
+===== CTtTranslate Help ========== Ayuda de CTtTranslate =====
+/ctt - Open panel=/ctt - Abrir panel
+/ctt_lang <lang> - Change language=/ctt_lang <idioma> - Cambiar idioma
+/ctt_reset - Reset your data=/ctt_reset - Restablecer tus datos
+/ctt_toggle - Enable/Disable mod (owner)=/ctt_toggle - Activar/Desactivar mod (owner)
+/ctranslate - Owner panel=/ctranslate - Panel del owner
+============================== ==============================
+CTtTranslate - Owner Control Panel=CTtTranslate - Panel de Control del Owner
+Global Settings=Configuración Global
+Enable global translator=Activar traductor global
+Show original language tag=Mostrar etiqueta de idioma original
+Translation API=API de Traducción
+LibreTranslate=LibreTranslate
+Google Translate=Google Translate
+Google API Key=Clave API de Google
+Visual=Visual
+Default color (HEX)=Color por defecto (HEX)
+Test translation (owner)=Probar traducción (owner)
+Players (Save permanently)=Jugadores (Guardar permanentemente)
+Save=Guardar
+Hello world (preview)=Hola mundo (vista previa)
+[CTtTranslate TEST] =[PRUEBA CTtTranslate] 
+[CTtTranslate] Owner settings saved=[CTtTranslate] Configuración del owner guardada
+
+CTtTranslate - Translation Panel=CTtTranslate - Panel de Traducción
+Enable translator=Activar traductor
+Save=Guardar
+Enabled=Activado
+Disabled=Desactivado
+[CTtTranslate] Translator: @1=[CTtTranslate] Traductor: @1
+Spanish=Español
+English=Inglés
+Portuguese=Portugués
+Russian=Ruso
